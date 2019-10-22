@@ -1,0 +1,8 @@
+﻿  DodgeBall.cpp
+c:\users\bc\desktop\40-8252(dodge ball)\dodgeball.cpp(580): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\bc\desktop\40-8252(dodge ball)\dodgeball.cpp(581): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\bc\desktop\40-8252(dodge ball)\dodgeball.cpp(618): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\bc\desktop\40-8252(dodge ball)\dodgeball.cpp(619): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\bc\desktop\40-8252(dodge ball)\dodgeball.cpp(45): warning C4172: returning address of local variable or temporary: res
+DodgeBall.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL2DTemplate.vcxproj -> C:\Users\BC\Desktop\40-8252(Dodge Ball)\Debug\OpenGL2DTemplate.exe
